@@ -1,0 +1,7 @@
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\bin\Debug\es-settimana-12-Giorno-2.exe.config
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\bin\Debug\es-settimana-12-Giorno-2.exe
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\bin\Debug\es-settimana-12-Giorno-2.pdb
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\obj\Debug\es-settimana-12-Giorno-2.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\obj\Debug\es-settimana-12-Giorno-2.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\obj\Debug\es-settimana-12-Giorno-2.exe
+C:\Users\Francesco\Desktop\CORSO_EPICODE\settimana_12\settimana12Giorno2\esercitazione-settimana-12-Giorno-2\es-settimana-12-Giorno-2\es-settimana-12-Giorno-2\obj\Debug\es-settimana-12-Giorno-2.pdb
